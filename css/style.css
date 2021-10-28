@@ -1,6 +1,14 @@
+*{
+    box-sizing: border-box;
+}
 body{
     background-color: goldenrod;
 }
 #story {
     display: none;
   }
+ @media screen{
+    .head{
+        width: 100%;
+    } 
+ }
